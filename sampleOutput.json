@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "google-news-ca", "name": "Google News (Canada)" },
+      "author": "The Tribune India",
+      "title": "Sikh boy dies in Canada after he loses control of his vehicle due to bad weather",
+      "description": "A 17 year-old Indo-Canadian student died after he lost control of his vehicle due to bad weather conditions and crashed into a utility pole, media reports said.",
+      "url": "https://www.tribuneindia.com/news/diaspora/sikh-boy-dies-after-he-lost-control-of-his-vehicle-due-to-bad-weather-in-canada-470876",
+      "urlToImage": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/1/2023_1$largeimg_2048884091.jpg",
+      "publishedAt": "2023-01-16T05:58:00+00:00",
+      "content": "Toronto, January 16\r\nA 17 year-old Indo-Canadian student died after he lost control of his vehicle due to bad weather conditions and crashed into a utility pole, media reports said.\r\nTaren Singh Lal … [+1243 chars]"
+    },
+    {
+      "source": { "id": "techradar", "name": "TechRadar" },
+      "author": null,
+      "title": "I wasted megabucks on tech subscriptions – here's how to avoid my mistakes",
+      "description": "Lost subscriptions are the tech world's hidden menace",
+      "url": "https://www.techradar.com/opinion/i-wasted-megabucks-on-tech-subscriptions-heres-how-to-avoid-my-mistakes",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZjWXi72d8qD4sQeGHhu2Ye-1200-80.jpg",
+      "publishedAt": "2023-01-14T09:00:20Z",
+      "content": "Tech has always been an expensive hobby, but that's particularly the case today. The main reason is because companies have fully weaponized the power of subscriptions for software and services. These… [+9889 chars]"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Nick Reynolds",
+      "title": "George Santos Has McCarthy Pinned Between a Rock and a Hard Place",
+      "description": "Republican Congressman George Santos has lost the confidence of some of his own party. But McCarthy needs him.",
+      "url": "https://www.newsweek.com/george-santos-kevin-mccarthy-support-congress-1773058",
+      "urlToImage": "https://d.newsweek.com/en/full/2177360/mcsantos.png",
+      "publishedAt": "2023-01-11T16:07:05Z",
+      "content": "George Santos, the Long Island Republican congressman who stands accused of lying about his education, employment history, charitable work and Jewish heritage, is currently facing few public conseque… [+4596 chars]"
+    },
+    {
+      "source": { "id": "fortune", "name": "Fortune" },
+      "author": "Ellen McGirt",
+      "title": "The forgotten true story behind Memorial Day—and why it matters now more than ever",
+      "description": "The story, once lost to history, serves as another reminder of the need for accountability, justice, and equity for people of color as the first steps in true racial reckoning.",
+      "url": "https://fortune.com/2022/05/31/forgotten-true-story-behind-memorial-day-martyrs-of-the-race-course-why-it-matters-now/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-90001458-e1654032098432.jpg?resize=1200,600",
+      "publishedAt": "2022-05-31T21:41:09Z",
+      "content": "Skip to Content"
+    }
+  ]
+}
